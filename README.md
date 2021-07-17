@@ -2,7 +2,7 @@
 
 The dataset was taken from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
 
-* lat : String variable, Latitude
+* **lat :** String variable, Latitude
 * lng: String variable, Longitude
 * desc: String variable, Description of the Emergency Call
 * zip: String variable, Zipcode
